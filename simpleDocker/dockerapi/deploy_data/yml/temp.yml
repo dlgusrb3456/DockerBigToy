@@ -1,0 +1,14 @@
+version: '3.7'
+
+services: 
+  testnginx:
+    image: nginx
+    deploy: 
+      replicas: 3
+      placement: 
+        constraints: [node.role==worker] 
+      restart_policy: 
+        condition: on-failure 
+        max_attempts: 2  
+    environment: 
+      SERVICE_PORTS: 80 
