@@ -1,4 +1,4 @@
-# 프로젝트 이름
+# Docker_Maker
 
 <p align="center">
   <br>
@@ -12,6 +12,7 @@
 
 <p align="justify">
 프로젝트 개요/동기
+Git GUI인 Sourcetree와 같이 Docker에 대한 이해만 있다면 어려운 명령어를 외우거나 찾아보지 않아도 누구나 쉽게 GUI 환경에서 도커 컨테이너 서비스를 사용할 수 있게 하는 서비스 구현
 </p>
 
 <p align="center">
@@ -30,13 +31,17 @@ GIF Images
 
 ## 구현 기능
 
-### 기능 1
+### 도커 로그인, 로그아웃
 
-### 기능 2
+### 도커 스택 배포, 삭제, 조회
 
-### 기능 3
+### 도커 서비스 조회, Scale-out, Update, Roll-Back
 
-### 기능 4
+### 도커 네트워크 생성, 조회, 삭제
+
+### 도커 볼륨 생성, 조회, 삭제
+
+### 도커 이미지 생성, 조회, 삭제, pull-push (to private registry or Docker Hub)
 
 <br>
 
