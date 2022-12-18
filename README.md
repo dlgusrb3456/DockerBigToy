@@ -15,6 +15,10 @@ Git GUI인 Sourcetree와 같이 Docker에 대한 이해만 있다면 어려운 �
 
 <br>
 
+## 프로젝트 구조
+![image](https://user-images.githubusercontent.com/77333310/208288945-9d945ec6-dc0e-45e1-ae0f-de17b51fb1b4.png)
+
+
 ## 기술 스택
 
 | Django | Frontend |  container orchestration tool   |
