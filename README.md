@@ -1,11 +1,6 @@
 # Docker_Maker
 
 ![image](https://user-images.githubusercontent.com/77333310/208288671-10152252-df79-49c9-bef5-30210bedd200.png)
-<p align="center">
-  <br>
-  
-  <br>
-</p>
 
 목차
 
