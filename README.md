@@ -1,6 +1,6 @@
 # Docker_Maker
 
-![image](https://user-images.githubusercontent.com/77333310/208288671-10152252-df79-49c9-bef5-30210bedd200.png)
+
 
 목차
 
@@ -11,9 +11,7 @@
 Git GUI인 Sourcetree와 같이 Docker에 대한 이해만 있다면 어려운 명령어를 외우거나 찾아보지 않아도 누구나 쉽게 GUI 환경에서 도커 컨테이너 서비스를 사용할 수 있게 하는 서비스 구현
 </p>
 
-<p align="center">
-GIF Images
-</p>
+![image](https://user-images.githubusercontent.com/77333310/208288671-10152252-df79-49c9-bef5-30210bedd200.png)
 
 <br>
 
@@ -21,7 +19,7 @@ GIF Images
 
 | JavaScript | TypeScript |  React   |  Node   |
 | :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+|   ![image](https://user-images.githubusercontent.com/77333310/208288786-f702681a-a3b5-49e1-afb1-5c99a3955629.png)   |   ![ts]    | ![react] | ![node] |
 
 <br>
 
