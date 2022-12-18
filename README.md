@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  ![image](https://user-images.githubusercontent.com/77333310/208288671-10152252-df79-49c9-bef5-30210bedd200.png)
   <br>
 </p>
 
@@ -45,10 +45,13 @@ GIF Images
 
 <br>
 
-## 배운 점 & 아쉬운 점
+## 개선사항
 
 <p align="justify">
-
+ 1. 프로비저닝 기능 지원
+  프로젝트 서비스를 이용하기 위해서는 사전 환경을 구축해야함. 이는 사용성을 해치므로 프로비저닝 기능을 제공해 사용자가 원하는 환경에 프로젝트의 서비스를 적용할 수 있게 할 것이다
+ 2. 프로젝트 이미지화
+  Django 프로젝트를 이미지화를 통해 컨테이너로 쉽게 서비스를 배포할 것이다. 이를 통해 다양한 사용자가 손쉽게 서비스를 이용할 수 있다
 </p>
 
 <br>
