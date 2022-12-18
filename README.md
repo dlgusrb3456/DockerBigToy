@@ -17,9 +17,9 @@ Git GUI인 Sourcetree와 같이 Docker에 대한 이해만 있다면 어려운 �
 
 ## 기술 스택
 
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![image](https://user-images.githubusercontent.com/77333310/208288786-f702681a-a3b5-49e1-afb1-5c99a3955629.png)   |   ![ts]    | ![react] | ![node] |
+| Django | Frontend |  container orchestration tool   |
+| :--------: | :--------: | :------: |
+|   ![image](https://user-images.githubusercontent.com/77333310/208288786-f702681a-a3b5-49e1-afb1-5c99a3955629.png)   |   ![image](https://user-images.githubusercontent.com/77333310/208288829-1d873556-abb3-4d36-b535-a6ee3d6ee2d8.png)   | ![image](https://user-images.githubusercontent.com/77333310/208288842-a78591e8-06da-47a2-b442-eb6ac6849ee1.png) |
 
 <br>
 
